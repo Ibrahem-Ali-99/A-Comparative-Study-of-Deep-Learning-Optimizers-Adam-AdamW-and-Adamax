@@ -52,8 +52,3 @@ Install dependencies using pip:
 ```bash
 pip install numpy matplotlib jupyter
 ```
-
-## References
-- [Adam: A Method for Stochastic Optimization](https://arxiv.org/abs/1412.6980)
-- [Decoupled Weight Decay Regularization (AdamW)](https://arxiv.org/abs/1711.05101)
-- [Adamax: A variant of Adam based on infinity norm](https://arxiv.org/abs/1412.6980)
